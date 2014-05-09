@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title><![CDATA[MyBlog]]></title>
+  
+  <link href="/atom.xml" rel="self"/>
+  <link href="http://www.pancaifeng.tk//"/>
+  <updated>2014-05-09T06:38:29.755Z</updated>
+  <id>http://www.pancaifeng.tk//</id>
+  
+  <author>
+    <name><![CDATA[pancaifeng]]></name>
+    <email><![CDATA[pcaifeng@gmail.com]]></email>
+  </author>
+  
+  <generator uri="http://zespia.tw/hexo/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[myblog]]></title>
+    <link href="http://www.pancaifeng.tk/2014/05/08/myblog/"/>
+    <id>http://www.pancaifeng.tk/2014/05/08/myblog/</id>
+    <published>2014-05-08T08:27:27.000Z</published>
+    <updated>2014-05-09T01:56:29.000Z</updated>
+    <content type="html"><![CDATA[<h2 id="这是我的博客。">这是我的博客。</h2>
+]]></content>
+    
+    
+      <category term="测试标签" scheme="http://www.pancaifeng.tk/tags/%E6%B5%8B%E8%AF%95%E6%A0%87%E7%AD%BE/"/>
+    
+      <category term="日志" scheme="http://www.pancaifeng.tk/categories/%E6%97%A5%E5%BF%97/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[Hello World]]></title>
+    <link href="http://www.pancaifeng.tk/2014/05/08/hello-world/"/>
+    <id>http://www.pancaifeng.tk/2014/05/08/hello-world/</id>
+    <published>2014-05-08T08:00:26.000Z</published>
+    <updated>2014-05-08T08:00:26.000Z</updated>
+    <content type="html"><![CDATA[<p>Welcome to <a href="http://hexo.io" target="_blank">Hexo</a>! This is your very first post. Check <a href="http://hexo.io/docs" target="_blank">documentation</a> to learn how to use.</p>
+]]></content>
+    
+    
+  </entry>
+  
+</feed>
